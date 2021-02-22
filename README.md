@@ -1,5 +1,5 @@
 # Ensayo sobre Git
-![imagen](https://www.bing.com/images/search?view=detailV2&ccid=XFYOE5%2b2&id=FC09ED315168FB33A6C2B84A247F17E39E617146&thid=OIP.XFYOE5-2A5WMHhBDPLgQiwHaHa&mediaurl=https%3a%2f%2fth.bing.com%2fth%2fid%2fR5c560e139fb603958c1e10433cb8108b%3frik%3dRnFhnuMXfyRKuA%26riu%3dhttp%253a%252f%252fwww.knowledge7.com%252fwp-content%252fuploads%252f2014%252f06%252f20140619-git-logo.jpg%26ehk%3d4mIvRS2%252fcrHmk4%252bXcgnsPLiPrnfkpIZCXBWOrG6Ww6Q%253d%26risl%3d%26pid%3dImgRaw&exph=300&expw=300&q=git+image&simid=607990795144400448&ck=8146FC568B1154EBA1ED4185CA90AF34&selectedIndex=0&FORM=IRPRST&ajaxhist=0)
+![imagen](https://cdn.freebiesupply.com/logos/large/2x/git-logo-png-transparent.png)
 ## Git
 **Git** es un software que permite mantener el control de las versiones de un poryecto, manteniendo el control de versiones de aplicaciones, cuando estás dependen de una gran cantidad de código fuente. Su función principal es llevar el registro de los cambios y hacer del trabajo colaborativo más eficiente, dado que permite que *varias personas realicen cambios sobre los archivos compartidos en un repositorio de código*. 
 
